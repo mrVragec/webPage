@@ -1,7 +1,7 @@
 # Site settings
-title: Spectral
+title: It's me Britta
 email: youremailaddress@gmail.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
+description: This is me, Britta and you are on my webpage.
 baseurl: "/spectral-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
