@@ -25,9 +25,6 @@
         });
     });
 
-    // Add active class to navigation on scroll (if needed in future)
-    window.addEventListener('scroll', function() {
-        // Placeholder for scroll-based navigation highlighting
-    });
+
 
 })();

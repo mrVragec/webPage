@@ -5,6 +5,9 @@ description: Another fine responsive site template
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
+# Customize the content by editing index.html
+# Update social media links, email, and contact information as needed
+
 # Build settings
 markdown: kramdown
 permalink: pretty
